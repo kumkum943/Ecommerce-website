@@ -2,6 +2,10 @@
 
 This ecommerce application provides users with a platform to browse, purchase, and sell products online. It offers a wide range of features including product listings, shopping cart functionality, secure payment processing, user authentication, and order management. The application aims to create a seamless and enjoyable shopping experience for both buyers and sellers.
 
+### Deployment:
+
+The application is deployed and accessible at https://e-commerce-website-azure-six.vercel.app
+
 ### Features:
 
 - **Product Catalog:** Browse through a collection of products with details such as name, description, price, and image.
@@ -23,10 +27,6 @@ This ecommerce application provides users with a platform to browse, purchase, a
 3. **Explore Products:** Browse through the available products and click on them for more details.
 4. **Add to Cart:** Add desired items to the shopping cart by clicking the "Add to Cart" button.
 5. **Proceed to Checkout:** Navigate to the shopping cart page and proceed through the checkout process to complete the purchase.
-
-### Deployment:
-
-The application is deployed and accessible at https://e-commerce-website-azure-six.vercel.app
 
 ### Contributions:
 
